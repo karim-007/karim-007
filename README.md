@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NuxtJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/karim-007](karim-007)
+- 👨‍💻 All of my projects are available at [karim-007](https://github.com/karim-007)
 
 - 💬 Ask me about **Laravel, VueJS, VueX,PHP,Python,Deep learing, Computer Vision, NLP, Pattern Recognization**
 

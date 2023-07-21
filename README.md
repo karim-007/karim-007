@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karim-007" alt="karim-007" /></a> </p>
 
-- 🔭 I’m currently working **United IT Solution LTD as a Software Engineer**
+- 🔭 I’m currently working **Stylezworld INC as a Sr. Software Engineer**
 
 - 🌱 I’m currently learning **ReactJS, NuxtJS**
 
 - 👨‍💻 All of my projects are available at [karim-007](https://github.com/karim-007)
 
-- 💬 Ask me about **Laravel, VueJS, VueX,PHP,Python,Deep learing, Computer Vision, NLP, Pattern Recognization**
+- 💬 Ask me about **Laravel, VueJS,NuxtJs, VueX,PHP,Python,Deep learing, Computer Vision, NLP, Pattern Recognization**
 
 - 📫 How to reach me **karim.cse007@gmail.com**
 

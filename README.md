@@ -36,6 +36,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karim-007&show_icons=true&locale=en&layout=compact" alt="karim-007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karim-007&show_icons=true&locale=en" alt="karim-007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karim-007&" alt="karim-007" /></p>
